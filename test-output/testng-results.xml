@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-23T15:42:28 IST" name="Suite" finished-at="2023-01-23T15:42:28 IST" duration-ms="85">
+    <groups>
+      <group name="regression">
+        <method signature="Debitcard.debitcard()[pri:0, instance:openAccount.Debitcard@793be5ca]" name="debitcard" class="openAccount.Debitcard"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2023-01-23T15:42:28 IST" name="Test" finished-at="2023-01-23T15:42:28 IST" duration-ms="85">
+      <class name="openAccount.Debitcard">
+        <test-method signature="debitcard()[pri:0, instance:openAccount.Debitcard@793be5ca]" started-at="2023-01-23T15:42:28 IST" name="debitcard" finished-at="2023-01-23T15:42:28 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debitcard -->
+      </class> <!-- openAccount.Debitcard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
